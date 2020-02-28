@@ -52,6 +52,8 @@
       <updated>1582866075909</updated>
       <workItem from="1582866077190" duration="1218000" />
       <workItem from="1582868626612" duration="4101000" />
+      <workItem from="1582874212210" duration="2369000" />
+      <workItem from="1582878367764" duration="1929000" />
     </task>
     <servers />
   </component>
@@ -67,9 +69,9 @@
       <screen x="0" y="31" width="1739" height="947" />
     </state>
     <state x="518" y="280" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.31.1739.947@0.31.1739.947" timestamp="1582872778806" />
-    <state x="475" y="357" key="com.intellij.ide.util.TipDialog" timestamp="1582868627846">
+    <state x="475" y="357" key="com.intellij.ide.util.TipDialog" timestamp="1582878367944">
       <screen x="0" y="31" width="1739" height="947" />
     </state>
-    <state x="475" y="357" key="com.intellij.ide.util.TipDialog/0.31.1739.947@0.31.1739.947" timestamp="1582868627846" />
+    <state x="475" y="357" key="com.intellij.ide.util.TipDialog/0.31.1739.947@0.31.1739.947" timestamp="1582878367944" />
   </component>
 </project>
