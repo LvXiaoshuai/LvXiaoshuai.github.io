@@ -7,6 +7,13 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -17,6 +24,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
@@ -43,6 +51,7 @@
       <option name="presentableId" value="Default" />
       <updated>1582866075909</updated>
       <workItem from="1582866077190" duration="1218000" />
+      <workItem from="1582868626612" duration="4101000" />
     </task>
     <servers />
   </component>
@@ -54,5 +63,13 @@
       <screen x="0" y="31" width="1739" height="947" />
     </state>
     <state x="461" y="163" key="#Notifications/0.31.1739.947@0.31.1739.947" timestamp="1582866359127" />
+    <state x="518" y="280" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1582872778806">
+      <screen x="0" y="31" width="1739" height="947" />
+    </state>
+    <state x="518" y="280" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.31.1739.947@0.31.1739.947" timestamp="1582872778806" />
+    <state x="475" y="357" key="com.intellij.ide.util.TipDialog" timestamp="1582868627846">
+      <screen x="0" y="31" width="1739" height="947" />
+    </state>
+    <state x="475" y="357" key="com.intellij.ide.util.TipDialog/0.31.1739.947@0.31.1739.947" timestamp="1582868627846" />
   </component>
 </project>
