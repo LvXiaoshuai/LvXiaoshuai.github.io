@@ -1,31 +1,10 @@
-Stellar by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+本项目基于：html5up.net | @ajlkn进行设计的博客系统
+只在分享软考大全，学习资源
+软考初级资料涉及程序员，网络管理员，信息处理技术员
+中级资料包括 软件评测师，软件设计师  网络工程师 多媒体应用设计师  嵌入式系统设计师
+	     电子商务设计师  系统集成项目管理工程师  信息系统监理师  
+	     信息安全工程师 数据库系统工程师 信息系统管理工程师
+高级资料包括  信息系统项目管理师 系统分析师  系统架构设计师 网络规划设计师 系统规划与管理师
 
-
-Say hello to Stellar, a slick little one-pager with a super vibrant color palette (which
-I guess you can always tone down if it's a little too vibrant for you), a "sticky" in-page
-nav bar (powered by my Scrollex plugin), a separate generic page template (just in case
-you need one), and an assortment of pre-styled elements.
-
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
-
-(* = not included)
-
-AJ
-aj@lkn.io | @ajlkn
-
-
-Credits:
-
-	Demo Images:
-		Unsplash (unsplash.com)
-
-	Icons:
-		Font Awesome (fontawesome.io)
-
-	Other:
-		jQuery (jquery.com)
-		Scrollex (github.com/ajlkn/jquery.scrollex)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+英语四级资源包括 启航 商志 考虫 文都 有道 新东方 资料
+计算机二级包括 ms office C语言资料
